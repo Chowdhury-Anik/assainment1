@@ -52,15 +52,21 @@ section{
 .work-box{
     box-shadow:10px 10px  40px gray;
     border-radius: 5px;
-    height:60%;
+    height:70%;
     width:25%;
     background-color: white;
     float:left;
-    margin-left:20px;
+    margin-left:25px;
 
 
 }
 
+.website-photo{
+    width:90%;
+    height:50%;
+    padding:5px 5px 5px 5px;
+        
+}
 
 .hilighting{
     color: #ff8367;
