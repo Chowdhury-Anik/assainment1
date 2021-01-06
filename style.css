@@ -58,8 +58,6 @@ section{
     float:left;
 
     
-
-
 }
 
 
@@ -69,33 +67,48 @@ section{
     
 }
 
+.back-image{
+    background-image: url("images/chat-background.png");
+    background-position: center;
+    background-size: 700px 130px;
+    background-repeat: no-repeat;
+}
 .work-inquiry{
-    width:50%;
-    float: left;
-    background-image: url(images/chat-background.png);
-    background-position:center;
+    width: 50%;
+    float: right;
+    padding:170px 5px;
+    color: white;
+    font-size:large;
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
-
+}  
+.chat-text{
+    text-align:center;
+    color:white;
+    padding:170px 5px ;
+  
+    
 }
-
-#inquiry{
-
-}
-
 .chat-button{
-
+    text-decoration: none;
+    color:white;
+    border-radius:5px;
+    background-color: #ff8367;
+    padding:10px 30px;
+    text-emphasis:155px;;
+  
 }
 
 .footer-content{
-    text-align: center;
+    text-align:center;
     margin:0px;
     padding:0px;
-    font-family:
 }
 .stay-slogan{
     text-transform: uppercase;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-
+    text-align: center;
 }
 #hello{
     font-weight: 800;
