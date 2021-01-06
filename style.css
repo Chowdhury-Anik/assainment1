@@ -67,6 +67,23 @@ section{
     padding:5px 5px 5px 5px;
         
 }
+.future-cafe{
+    background-color: rgb(213, 216, 218);
+    padding:5px 5px;
+    border-radius: 10px;
+}
+.markeitng{
+
+    background-color:rgba(12, 49, 211, 0.63);
+    padding:5px 5px;
+    border-radius: 10px;
+
+}
+.art-factory{
+    background-color:rgb(215, 131, 248);
+    padding: 5px 5px;
+    border-radius: 10px;
+}
 
 .hilighting{
     color: #ff8367;
@@ -83,7 +100,7 @@ section{
 .work-inquiry{
     width: 50%;
     float: right;
-    padding:170px 5px;
+    padding:150px 5px;
     color: white;
     font-size:large;
     text-transform: uppercase;
@@ -93,7 +110,7 @@ section{
 .chat-text{
     text-align:center;
     color:white;
-    padding:170px 5px ;
+    padding:150px 5px ;
   
     
 }
@@ -103,7 +120,6 @@ section{
     border-radius:5px;
     background-color: #ff8367;
     padding:10px 30px;
-    text-emphasis:155px;;
   
 }
 
