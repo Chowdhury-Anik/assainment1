@@ -1,0 +1,118 @@
+section{
+    width:100%;
+    height:500px;
+}   
+.half-width{
+    width:38%;
+    float:left;
+    margin:5%;
+    padding:1%;
+    
+}
+.introducing{
+    font-weight: 800;
+    text-transform: uppercase;
+}
+#namecolor{
+    color:#FF8367;
+    
+}
+.half-width img{
+    width:100%;
+
+
+
+}
+.link-button{
+    text-decoration: none;
+    color:white;
+    border-radius:5px;
+    background-color: #ff8367;
+    font-weight: 800;
+    padding:10px 40px;
+}
+
+.latest-work-section{
+    background-color: #ebe6e646;
+
+}
+#latest-work{
+    text-align:center;
+    padding:50px;
+    text-transform: uppercase;
+
+}
+
+
+.latest-list{
+  padding: 10px  10px 10px 40px;
+   
+}
+
+.work-box{
+    box-shadow:10px 10px  40px gray;
+    border-radius: 5px;
+    height:60%;
+    width:25%;
+    background-color: white;
+    float:left;
+
+    
+
+
+}
+
+
+.hilighting{
+    color: #ff8367;
+    font-weight: 800;
+    
+}
+
+.work-inquiry{
+    width:50%;
+    float: left;
+    background-image: url(images/chat-background.png);
+    background-position:center;
+
+
+}
+
+#inquiry{
+
+}
+
+.chat-button{
+
+}
+
+.footer-content{
+    text-align: center;
+    margin:0px;
+    padding:0px;
+    font-family:
+}
+.stay-slogan{
+    text-transform: uppercase;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+#hello{
+    font-weight: 800;
+    font-size:x-large;
+}
+.icons{
+    width:30px;
+    height:30px;
+    
+}
+.icon-tab{
+    text-align: center;
+    
+}
+
+.copyright{
+    text-align: center;
+    background-color: rgb(158, 158, 158);
+    color:white;
+}
