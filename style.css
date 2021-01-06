@@ -12,6 +12,7 @@ section{
 .introducing{
     font-weight: 800;
     text-transform: uppercase;
+    margin: 0px;
 }
 #namecolor{
     color:#FF8367;
@@ -20,7 +21,10 @@ section{
 .half-width img{
     width:100%;
 
+}
 
+.second-image{
+    
 
 }
 .link-button{
